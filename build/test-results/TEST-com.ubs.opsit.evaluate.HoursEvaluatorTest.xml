@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.evaluate.HoursEvaluatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-09-21T09:35:05" hostname="5CG43018CB" time="0.001">
+  <properties/>
+  <testcase name="verifyHoursEvaluationCorrectValue" classname="com.ubs.opsit.evaluate.HoursEvaluatorTest" time="0.0"/>
+  <testcase name="verifyHoursEvaluationWithZeroValue" classname="com.ubs.opsit.evaluate.HoursEvaluatorTest" time="0.0"/>
+  <testcase name="verifyHoursEvaluationWithNegativeValue" classname="com.ubs.opsit.evaluate.HoursEvaluatorTest" time="0.0"/>
+  <testcase name="verifyHoursEvaluationWith24Value" classname="com.ubs.opsit.evaluate.HoursEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

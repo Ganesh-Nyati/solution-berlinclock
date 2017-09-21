@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.evaluate.SecondsEvaluatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-09-21T09:35:05" hostname="5CG43018CB" time="0.0">
+  <properties/>
+  <testcase name="verifyWhenSecondsAreOdd" classname="com.ubs.opsit.evaluate.SecondsEvaluatorTest" time="0.0"/>
+  <testcase name="verifyWhenSecondsValueIsNegative" classname="com.ubs.opsit.evaluate.SecondsEvaluatorTest" time="0.0"/>
+  <testcase name="verifyWhenSecondsAreMultipleOfValueTwo" classname="com.ubs.opsit.evaluate.SecondsEvaluatorTest" time="0.0"/>
+  <testcase name="verifyWhenSecondsValueIsZero" classname="com.ubs.opsit.evaluate.SecondsEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

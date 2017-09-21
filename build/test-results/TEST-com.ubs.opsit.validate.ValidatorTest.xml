@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.validate.ValidatorTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2017-09-21T09:35:06" hostname="5CG43018CB" time="0.0">
+  <properties/>
+  <testcase name="shouldReturnTrueWhenTimeIsMidnight" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseMinutesHasOneDigit" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseHoursIsOutOfRange" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnTrueAllValuesAreZero" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseSecondsIsNegative" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseHoursHasOneDigit" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseMinutesHasInvalidCharacters" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseMinutesHasThreeDigitValue" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseHoursHasThreeDigitValue" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseHoursIsNegativeValue" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseSecondsHasOneDigit" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnTrueWithValidTime" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseMinutesIsNegative" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseSecondsHasInvalidCharacters" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseWhenTimeIsOutOfRange" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseHoursHasInvalidCharacters" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseSecondsHasThreeDigitValue" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseMinutesIsOutOfRange" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <testcase name="shouldReturnFalseSecondsIsOutOfRange" classname="com.ubs.opsit.validate.ValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

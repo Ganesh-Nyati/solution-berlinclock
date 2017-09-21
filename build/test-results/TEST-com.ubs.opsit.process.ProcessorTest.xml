@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.process.ProcessorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-09-21T09:35:06" hostname="5CG43018CB" time="0.02">
+  <properties/>
+  <testcase name="verifyAllEvaluatorsInvocation" classname="com.ubs.opsit.process.ProcessorTest" time="0.01"/>
+  <testcase name="ShouldThrowExceptionInvalidTimeValue" classname="com.ubs.opsit.process.ProcessorTest" time="0.0"/>
+  <testcase name="ShouldThrowExceptionInvalidNumberOfValues" classname="com.ubs.opsit.process.ProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

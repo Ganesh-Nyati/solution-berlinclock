@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.BerlinClockFixture" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-21T09:35:05" hostname="5CG43018CB" time="1.022">
+  <properties/>
+  <testcase name="berlinClockAcceptanceTests" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="1.022"/>
+  <system-out><![CDATA[2017-09-21T15:05:05.460 | est worker | ClasspathStoryFinder | INFO   - Searching for stories called [berlin-clock.story] in [[C:\Users\egannya\git\solution-berlinclock\build\classes\test, C:\Users\egannya\git\solution-berlinclock\build\resources\test, C:\Users\egannya\git\solution-berlinclock\build\classes\main]] 
+2017-09-21T15:05:05.470 | est worker | aviouralTestEmbedder | INFO   - Running [BehaviouralTestEmbedder] with spring_stories [[file:/C:/Users/egannya/git/solution-berlinclock/build/resources/test/stories/berlin-clock.story]] 
+Processing system properties {}
+Using controls EmbedderControls[batch=false,skip=false,generateViewAfterStories=true,ignoreFailureInStories=false,ignoreFailureInView=false,verboseFailures=false,verboseFiltering=false,storyTimeoutInSecs=300,threads=1]
+Running story file:/C:/Users/egannya/git/solution-berlinclock/build/resources/test/stories/berlin-clock.story
+
+(BeforeStories)
+
+
+(AfterStories)
+
+Generating reports view to 'C:\Users\egannya\git\solution-berlinclock\build\classes\jbehave' using formats '[stats, html, console]' and view properties '{defaultFormats=stats, decorateNonHtml=true, viewDirectory=view, decorated=ftl/jbehave-report-decorated.ftl, reports=ftl/jbehave-reports-with-totals.ftl, maps=ftl/jbehave-maps.ftl, navigator=ftl/jbehave-navigator.ftl, views=ftl/jbehave-views.ftl, nonDecorated=ftl/jbehave-report-non-decorated.ftl}'
+Reports view generated with 1 stories (of which 0 pending) containing 4 scenarios (of which 0 pending)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

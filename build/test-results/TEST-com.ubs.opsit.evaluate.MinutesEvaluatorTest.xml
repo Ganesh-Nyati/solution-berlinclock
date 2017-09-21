@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.evaluate.MinutesEvaluatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-09-21T09:35:05" hostname="5CG43018CB" time="0.01">
+  <properties/>
+  <testcase name="verifyWhenMinutesValueIsSecondQuarterOfHours" classname="com.ubs.opsit.evaluate.MinutesEvaluatorTest" time="0.0"/>
+  <testcase name="verifyHoursEvaluationWithZeroValue" classname="com.ubs.opsit.evaluate.MinutesEvaluatorTest" time="0.0"/>
+  <testcase name="verifyMinutesEvaluationWith59Value" classname="com.ubs.opsit.evaluate.MinutesEvaluatorTest" time="0.0"/>
+  <testcase name="verifyMinutesEvaluationWithCorrectValue" classname="com.ubs.opsit.evaluate.MinutesEvaluatorTest" time="0.01"/>
+  <testcase name="verifyWhenMinutesValueIsFirstQuarterOfHours" classname="com.ubs.opsit.evaluate.MinutesEvaluatorTest" time="0.0"/>
+  <testcase name="verifyHoursEvaluationWithNegativeValue" classname="com.ubs.opsit.evaluate.MinutesEvaluatorTest" time="0.0"/>
+  <testcase name="verifyWhenMinutesValueIsLastQuarterOfHours" classname="com.ubs.opsit.evaluate.MinutesEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
